@@ -1,0 +1,4 @@
+UPI ID: amitraul100@okhdfcbank
+Payee name: Amit Raul
+Source: QR_code.jpeg (Google Pay QR) supplied 2026-10-27.
+Email amitraul100@gmail.com matches the UPI handle, taken as confirmed.

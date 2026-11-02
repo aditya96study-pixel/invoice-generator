@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amitabh Tours</string>
+    <string name="tracking_channel">Trip tracking</string>
+    <string name="general_channel">Reminders</string>
+</resources>

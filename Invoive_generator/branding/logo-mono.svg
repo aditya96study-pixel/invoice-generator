@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Black-only version for the Print Saver theme and B/W printing. -->
+  <rect x="8" y="8" width="496" height="496" rx="108" fill="none" stroke="#000" stroke-width="16"/>
+  <circle cx="256" cy="118" r="44" fill="none" stroke="#000" stroke-width="12"/>
+  <path d="M256 92 L104 432 L156 432 L256 176 Z" fill="#000"/>
+  <path d="M256 92 L408 432 L356 432 L256 176 Z" fill="#000"/>
+  <path d="M247 432 L265 432 L263 380 L249 380 Z" fill="#000"/>
+  <path d="M249.5 352 L262.5 352 L261.2 314 L250.8 314 Z" fill="#000"/>
+  <path d="M251.5 292 L260.5 292 L259.6 264 L252.4 264 Z" fill="#000"/>
+  <path d="M253 247 L259 247 L258.5 228 L253.5 228 Z" fill="#000"/>
+</svg>

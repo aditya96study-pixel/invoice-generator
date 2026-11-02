@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 400" width="1180" height="400">
+  <!-- Horizontal logo for invoice headers and the app's top bar. -->
+  <g transform="translate(40 44) scale(0.609)">
+    <rect width="512" height="512" rx="112" fill="#14213D"/>
+    <circle cx="256" cy="118" r="44" fill="#F5B82E"/>
+    <path d="M256 92 L408 432 L104 432 Z" fill="#24365F"/>
+    <path d="M256 92 L104 432 L156 432 L256 176 Z" fill="#FFFFFF"/>
+    <path d="M256 92 L408 432 L356 432 L256 176 Z" fill="#FFFFFF"/>
+    <path d="M247 432 L265 432 L263 380 L249 380 Z" fill="#F5B82E"/>
+    <path d="M249.5 352 L262.5 352 L261.2 314 L250.8 314 Z" fill="#F5B82E"/>
+    <path d="M251.5 292 L260.5 292 L259.6 264 L252.4 264 Z" fill="#F5B82E"/>
+    <path d="M253 247 L259 247 L258.5 228 L253.5 228 Z" fill="#F5B82E"/>
+  </g>
+  <text x="400" y="212" font-family="Montserrat, Poppins, 'Segoe UI', Arial, sans-serif" font-size="132" font-weight="800" fill="#14213D" letter-spacing="4">AMITABH</text>
+  <rect x="404" y="244" width="120" height="8" rx="4" fill="#F5B82E"/>
+  <text x="540" y="262" font-family="Montserrat, Poppins, 'Segoe UI', Arial, sans-serif" font-size="46" font-weight="600" fill="#C98A0E" letter-spacing="10">TOURS &amp; TRAVELS</text>
+  <text x="404" y="330" font-family="Montserrat, Poppins, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="500" fill="#5B6478" letter-spacing="3">PUNE · LOCAL · AIRPORT · OUTSTATION</text>
+</svg>
